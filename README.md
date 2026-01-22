@@ -1,19 +1,16 @@
 ## Hi there 👋
 
-<!--
-**pratikg144/pratikg144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 Hi 👋, I'm Pratik Gupta
+**A MERN Stack Developer || DSA || **
 
-Here are some ideas to get you started:
+Email Me 👉 ✉️ **prateekg508@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **I’m currently working on:** Crevveo Smart Deliver Platforms 
+- 🌱 **I’m currently learning:** Machine Learning 
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** prateekg508@gmail.com
+- 😄 **Pronouns:** Pratik
+- ⚡ **Fun fact:** I likes Tech and Tech likes Me
 
 
 ## 🌐 Socials:
